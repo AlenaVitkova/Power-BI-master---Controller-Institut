@@ -9,4 +9,4 @@ Obsahuje:
 - Power BI report (.pbix)
 - Zadání závěrečné práce (PDF)
 - Certifikát (JPG)
-- Screenshots (JPG)
+- Screenshots
