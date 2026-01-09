@@ -4,6 +4,7 @@ Součástí kurzu bylo i samostatné zpracování vlastního projektu a závěre
 
 **Kompletní balíček (Power BI report, zadání, certifikát):**  
 https://drive.google.com/drive/folders/1qxcA_G8hQxGDWNLI7c2W1WIrVfZbDrf8?usp=sharing
+
 Obsahuje:
 - Power BI report (.pbix)
 - Zadání závěrečné práce (PDF)
